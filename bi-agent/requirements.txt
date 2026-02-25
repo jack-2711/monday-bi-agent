@@ -1,5 +1,0 @@
-flask
-openai
-pandas
-python-dotenv
-gunicorn
